@@ -1,0 +1,19 @@
+{
+  "name": "gvmarketplace.api",
+  "version": "1.0.0",
+  "description": "Marketplace for students",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jparr721/GvMarketplace.api.git"
+  },
+  "author": "Jarred Parr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jparr721/GvMarketplace.api/issues"
+  },
+  "homepage": "https://github.com/jparr721/GvMarketplace.api#readme"
+}
