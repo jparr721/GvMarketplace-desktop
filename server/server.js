@@ -8,3 +8,5 @@ const port = process.env.PORT || 3000;
 app.listen(port, () => {
   console.log(`Api is now running on port: ${port}`);
 });
+
+module.exports = app;
