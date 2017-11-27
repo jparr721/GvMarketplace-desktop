@@ -1,5 +1,3 @@
-package view;
-
 public class MarketplaceController {
 
     public void uploadImageButtonClicked(){

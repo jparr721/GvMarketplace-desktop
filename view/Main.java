@@ -1,5 +1,3 @@
-package view;
-
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
@@ -21,10 +19,11 @@ public class Main extends Application {
         launch(args);
     }
 
-    public void createForSale(){
 
-    }
-
+    /*public void createPost(String username, int postNumber){
+        Post userPost;
+        userPost = new Post(userName, title, description, price);
+    }*/
 
 
 }
